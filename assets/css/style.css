@@ -74,7 +74,7 @@
    */
 
   /* font-family */
-  --ff-poppins: 'Poppins', sans-serif;
+  --ff-poppins: 'Inter', sans-serif;
 
   /* font-size */
   --fs-1: 24px;
@@ -499,8 +499,10 @@ main {
 .about-text {
   color: var(--light-gray);
   font-size: var(--fs-6);
+  font-size: 16px;
   font-weight: var(--fw-300);
   line-height: 1.6;
+  line-height: 1.75;
 }
 
 .about-text p { margin-bottom: 15px; }
